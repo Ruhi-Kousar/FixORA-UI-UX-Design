@@ -54,17 +54,17 @@ The goal of FixORA is to simplify community issue reporting and encourage citize
 
 ---
 
-## 📸 Prototype
+## 📸 Figma Design
 
-**Figma Prototype**
+🔗 **View the complete Figma Design:**
 
-Paste your Figma link here.
+**https://www.figma.com/design/3GCVsFfsTEdppiXHZWFyiW/PROJECT?node-id=0-1&t=UquxjCHjydIusP0Y-1**
 
 ---
 
 ## 👩‍💻 Author
 
-Shaik Ruhi Kousar
+**Shaik Ruhi Kousar**
 
 B.Sc. Data Science Student
 
@@ -72,4 +72,4 @@ B.Sc. Data Science Student
 
 ## 📄 License
 
-This project is for educational purposes.
+This project is intended for educational and learning purposes.
